@@ -1,8 +1,36 @@
 - title: About
-  url: /about.html
+  url: /about
 
-- title: Source
-  url: https://github.com/patdryburgh/hitchens
+- title: Archive
+  url: /archive
 
-- title: Designer
-  url: http://patdryburgh.com
+
+- title: Audios
+  url: /audios
+
+- title: Contact
+  url: /contact
+
+- title: Copyright
+  url: /copyright
+
+- title: Friday Night Meetings
+  url: /friday-night-meetings
+
+- title: Members
+  url: /members
+
+- title: Philosophical Midwifery
+  url: /philosophical-midwifery
+
+- title: Pierre Grimes
+  url: /pierre-grimes
+
+- title: PSG
+  url: /psg
+
+- title: Seminars Workshops and Sesshin
+  url: /seminars-workshops-and-sesshin
+
+- title: Video
+  url: /video

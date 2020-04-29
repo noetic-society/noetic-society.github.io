@@ -21,9 +21,11 @@ layout: default
   </div>
 
   <div class="post-meta">
+    {% comment %}}
     {% if page.author %}
       <div itemprop="author">{{ page.author }}</div>
     {% endif %}
+    {% endcomment %}
     <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
   </div>
 
