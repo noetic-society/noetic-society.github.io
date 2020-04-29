@@ -6,19 +6,16 @@ author: sorfila
 layout: page
 guid: /?page_id=804
 ---
-Please use the form here to connect with us:
 
-<!-- Fast Secure Contact Form plugin 4.0.52 - begin - FastSecureContactForm.com -->
+<p>
+The Noetic Society, Inc.<br/>
+2172 Pacific Ave <br/>
+Costa Mesa, CA 92627<br/>
+United States
+</p>
 
-<div style="clear:both;">
-</div>
+<p>
+  <a href="mailto:info@noeticsociety.org?subject=[noeticsociety.org inquery]">You can email us here</a>
+</p>
 
-Comments or questions are welcome.
 
-<div id="FSContact1" style="width:99%; max-width:555px;">
-</div>
-
-<div style="clear:both;">
-</div>
-
-<!-- Fast Secure Contact Form plugin 4.0.52 - end - FastSecureContactForm.com -->
