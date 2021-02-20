@@ -7,8 +7,14 @@ layout: page
 guid: /NS/?page_id=80
 classic-editor-remember:
   - block-editor
+redirect_to: https://archive.org/details/noeticsociety?and%5B%5D=subject%3ANSDRM&sin=&sort=-date
 ---
 <img class="alignnone size-large wp-image-206" src="/assets/images/wp-content/uploads/2013/03/group-1-940x624.jpg" alt="group 1" width="850" height="564" srcset="/assets/images/wp-content/uploads/2013/03/group-1-940x624.jpg 940w, /wp-content/uploads/2013/03/group-1-451x300.jpg 451w" sizes="(max-width: 850px) 100vw, 850px" />
+
+
+# In-person meetings have been post-poned!
+
+
 
 ## **Friday Nights**
 

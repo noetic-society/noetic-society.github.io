@@ -5,6 +5,7 @@ date: 2014-09-25T16:13:14-07:00
 author: sorfila
 layout: page
 guid: /?page_id=743
+redirect_to: https://archive.org/details/noeticsociety?and%5B%5D=mediatype%3A%22movies%22
 ---
 &nbsp;
 

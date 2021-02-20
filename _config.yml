@@ -40,6 +40,7 @@ markdown: kramdown
 
 plugins:
   - jekyll-paginate
+  - jekyll-redirect-from
 
 paginate: 50
 paginate_path: "/page/:num/"

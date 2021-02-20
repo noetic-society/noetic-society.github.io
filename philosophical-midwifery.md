@@ -6,7 +6,7 @@ author: sorfila
 layout: page
 guid: /NS/?page_id=13
 ---
-<img class="alignnone size-full wp-image-315" src="/assets/images/wp-content/uploads/2013/01/IMG_1339.jpg" alt="IMG_1339" width="720" height="540" srcset="/assets/images/wp-content/uploads/2013/01/IMG_1339.jpg 720w, /wp-content/uploads/2013/01/IMG_1339-200x150.jpg 200w, /wp-content/uploads/2013/01/IMG_1339-400x300.jpg 400w" sizes="(max-width: 720px) 100vw, 720px" />(/assets/images/wp-content/uploads/2013/01/IMG_1339.jpg)
+<img class="alignnone size-full wp-image-315" src="/assets/images/wp-content/uploads/2013/01/IMG_1339.jpg" alt="IMG_1339" width="720" height="540" srcset="/assets/images/wp-content/uploads/2013/01/IMG_1339.jpg 720w, /wp-content/uploads/2013/01/IMG_1339-200x150.jpg 200w, /wp-content/uploads/2013/01/IMG_1339-400x300.jpg 400w" sizes="(max-width: 720px) 100vw, 720px" />
 
 **Pierre Grimes** is the founder of the philosophical midwifery movement, which is an adaption of Socratic midwifery, and is a mode of **philosophical counseling**. The name Philosophical Midwifery comes from Plato’s dialogue, **The Theaetetus**.
 
@@ -49,5 +49,5 @@ Chong-An was present when Pierre conducted classes on midwifery before the membe
 > I accepted the challenge and I became Hui-An, the Master Dharma Teacher and was sealed as his Dharma Successor. Myo Bong, the Patriarchal Dharma successor of Venerable Hye-Am, the 33rd patriarch from Lin Chi, has founded several temples and is presently in Korea.”
 
 A short while later, in the Spring of 1983, Pierre started the **Opening Mind Academy** as part of his Virtue Mountain Temple for the training of philosophical midwifery, the exploration and study of **dreams** and for reviewing **problems that students experienced with meditation**.
-
-The Noetic Society currently practices midwifery at our Friday night <a title="Meetings" href="/meetings-2/" target="_blank">meetings</a>.
+<!-- 
+The Noetic Society currently practices midwifery at our Friday night <a title="Meetings" href="/meetings-2/" target="_blank">meetings</a>. -->
