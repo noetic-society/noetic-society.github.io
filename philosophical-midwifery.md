@@ -6,7 +6,7 @@ author: sorfila
 layout: page
 guid: /NS/?page_id=13
 ---
-<img class="alignnone size-full wp-image-315" src="/assets/images/wp-content/uploads/2013/01/IMG_1339.jpg" alt="IMG_1339" width="720" height="540" srcset="/assets/images/wp-content/uploads/2013/01/IMG_1339.jpg 720w, /wp-content/uploads/2013/01/IMG_1339-200x150.jpg 200w, /wp-content/uploads/2013/01/IMG_1339-400x300.jpg 400w" sizes="(max-width: 720px) 100vw, 720px" />(/wp-content/uploads/2013/01/IMG_1339.jpg)
+<img class="alignnone size-full wp-image-315" src="/assets/images/wp-content/uploads/2013/01/IMG_1339.jpg" alt="IMG_1339" width="720" height="540" srcset="/assets/images/wp-content/uploads/2013/01/IMG_1339.jpg 720w, /wp-content/uploads/2013/01/IMG_1339-200x150.jpg 200w, /wp-content/uploads/2013/01/IMG_1339-400x300.jpg 400w" sizes="(max-width: 720px) 100vw, 720px" />(/assets/images/wp-content/uploads/2013/01/IMG_1339.jpg)
 
 **Pierre Grimes** is the founder of the philosophical midwifery movement, which is an adaption of Socratic midwifery, and is a mode of **philosophical counseling**. The name Philosophical Midwifery comes from Plato’s dialogue, **The Theaetetus**.
 

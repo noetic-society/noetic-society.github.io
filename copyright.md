@@ -10,7 +10,7 @@ guid: /?page_id=2018
 
 Pierre and we in the Noetic Society wanted to get the beauty and wisdom of Platonism (and all perennial philosophy) out to the world for free. For that reason, you are allowed to copy it (and great! thank you!). People should be able to view and raise themselves up.
 
-<img class="size-full wp-image-2019 aligncenter" src="/assets/images/wp-content/uploads/2018/11/creative-commons-by-nc-nd-240x83.png" alt="" width="240" height="83" />(/wp-content/uploads/2018/11/creative-commons-by-nc-nd-240x83.png)
+<img class="size-full wp-image-2019 aligncenter" src="/assets/images/wp-content/uploads/2018/11/creative-commons-by-nc-nd-240x83.png" alt="" width="240" height="83" />(/assets/images/wp-content/uploads/2018/11/creative-commons-by-nc-nd-240x83.png)
 
 However, the material is not in the &#8220;public domain&#8221;.  It is published under a [Creative Commons BY-NC-ND 4.0 International license](https://creativecommons.org/licenses/by-nc-nd/4.0/) .  We request that if you are re-publishing, you respect the terms of this license.  **Please read the license carefully and thoroughly before any reposting**, so that you know what you are doing, and can help us protect these materials for future generations. See also our guidelines page (linked below).**
 **
