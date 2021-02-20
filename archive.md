@@ -215,10 +215,10 @@ If you would like to help with this effort, please contact info@noeticsociety.or
 <!-- ===================================================================================================================== -->
 
   1. **<a name="nsprm"></a>NSPRM: Parmenides Study Group**
-      1.![](/wp-content/uploads/2016/05/question-mark.png)  [About](/psg) the Parmenides Study Group
-      2.![](/wp-content/uploads/2016/05/ia-icon.png)  [Latest Balboa Translation](https://archive.org/details/parmenides-balboa) (PDF)
-      3.![](/wp-content/uploads/2016/05/ia-icon.png)  5/16/2016 to present: Recordings at the [Internet Archive](https://archive.org/details/noeticsociety?sort=-date)
-      4.![](/wp-content/uploads/2016/05/gdrive-icon.jpg)  7/21/2015 to 5/15/2016: Recordings on our [Google Drive](audios) (password req&#8217;d)
+      1.![](/assets/images/wp-content/uploads/2016/05/question-mark.png)  [About](/psg) the Parmenides Study Group
+      2.![](/assets/images/wp-content/uploads/2016/05/ia-icon.png)  [Latest Balboa Translation](https://archive.org/details/parmenides-balboa) (PDF)
+      3.![](/assets/images/wp-content/uploads/2016/05/ia-icon.png)  5/16/2016 to present: Recordings at the [Internet Archive](https://archive.org/details/noeticsociety?sort=-date)
+      4.![](/assets/images/wp-content/uploads/2016/05/gdrive-icon.jpg)  7/21/2015 to 5/15/2016: Recordings on our [Google Drive](audios) (password req&#8217;d)
       5. 9/9/2014 to 8/19/2015: Recordings on YouTube
           * <a href="https://www.youtube.com/watch?v=Tg5qLMXz4sk" target="_blank" rel="noopener noreferrer">2015.08.19 4th hyp 158a to 158d nature</a>
           * <a href="https://www.youtube.com/watch?v=a2XgI6hq1xM" target="_blank" rel="noopener noreferrer">2015.08.18 4th hyp 158a to 158d</a>
@@ -364,20 +364,20 @@ If you would like to help with this effort, please contact info@noeticsociety.or
       * NSSAT = Saturday morning informal discussions
       * NSSEM = Seminars
   * NSSPE = Special Events
-  *![](/wp-content/uploads/2016/05/smartphone.png) **Watching Videos on Small devices at the Internet Archive**
+  *![](/assets/images/wp-content/uploads/2016/05/smartphone.png) **Watching Videos on Small devices at the Internet Archive**
       * If the originally-uploaded MP4 video file is too large to watch online (&#8220;stream&#8221;) or even download, then look in the &#8220;DOWNLOAD OPTIONS&#8221; section for a choice for &#8220;OGG VIDEO&#8221;. The OGG files IA creates average about 1/12th the size of the original MP4 files, so these are perfect for small devices or slow connections. You can watch the OGG video with VLC (see below).
-  * <a id="vlc"></a>![](/wp-content/uploads/2016/05/vlc.png) **VLC**  
+  * <a id="vlc"></a>![](/assets/images/wp-content/uploads/2016/05/vlc.png) **VLC**  
     You can play OGG video (.ogv) and audio (.ogg) files with VLC, the free/open-source audio/video file player: 
      
 
       * VLC app on <a href="https://itunes.apple.com/us/app/vlc-for-mobile/id650377962?mt=8" target="_blank" rel="noopener noreferrer">Apple iTunes (iPad / iPhone)</a>
       * VLC app in <a href="https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en" target="_blank" rel="noopener noreferrer">Google Play (Android)</a>
       * VLC app for <a href="http://www.videolan.org/" target="_blank" rel="noopener noreferrer">all other platforms</a>
-  *![](/wp-content/uploads/2016/05/headphones.jpg) **Headphones recommended.**
-  *![](/wp-content/uploads/2016/05/write.png) Please write me (below) with any questions/problems regarding this page. Thanks!
-  *![](/wp-content/uploads/2016/05/thumbs-up-icon.png) Thanks to Barbara, Sean, Marty, Yoni, David, Sayon, JulieP, JulieH, Lisa, Nancy, Regina, and all others who have worked or helped to get audios and videos recorded. A treasure of wisdom for future generations.
-  *![](/wp-content/uploads/2016/05/thumbs-up-icon.png) Thanks also to the Internet Archive and its benefactors!
-  *![](/wp-content/uploads/2016/05/thumbs-up-icon.png) And of course, infinite thanks to Pierre and the long lineage of wisdom-seekers who have contemplated the One~Self since the beginning of time.
+  *![](/assets/images/wp-content/uploads/2016/05/headphones.jpg) **Headphones recommended.**
+  *![](/assets/images/wp-content/uploads/2016/05/write.png) Please write me (below) with any questions/problems regarding this page. Thanks!
+  *![](/assets/images/wp-content/uploads/2016/05/thumbs-up-icon.png) Thanks to Barbara, Sean, Marty, Yoni, David, Sayon, JulieP, JulieH, Lisa, Nancy, Regina, and all others who have worked or helped to get audios and videos recorded. A treasure of wisdom for future generations.
+  *![](/assets/images/wp-content/uploads/2016/05/thumbs-up-icon.png) Thanks also to the Internet Archive and its benefactors!
+  *![](/assets/images/wp-content/uploads/2016/05/thumbs-up-icon.png) And of course, infinite thanks to Pierre and the long lineage of wisdom-seekers who have contemplated the One~Self since the beginning of time.
 
 <!-- ===================================================================================================================== -->
 
