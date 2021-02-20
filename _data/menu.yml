@@ -14,8 +14,8 @@
 - title: Copyright
   url: /copyright
 
-- title: Friday Night Meetings
-  url: /friday-night-meetings
+# - title: Friday Night Meetings
+#   url: /friday-night-meetings
 
 - title: Members
   url: /members
@@ -26,8 +26,8 @@
 - title: PSG
   url: /psg
 
-- title: Seminars Workshops and Sesshin
-  url: /seminars-workshops-and-sesshin
+# - title: Seminars Workshops and Sesshin
+#   url: /seminars-workshops-and-sesshin
 
 - title: Video
   url: /video

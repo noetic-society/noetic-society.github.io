@@ -7,15 +7,13 @@ layout: page
 guid: /?page_id=804
 ---
 
-<p>
+
 The Noetic Society, Inc.<br/>
 2172 Pacific Ave <br/>
 Costa Mesa, CA 92627<br/>
 United States
-</p>
 
-<p>
-  <a href="mailto:info@noeticsociety.org?subject=[noeticsociety.org inquery]">You can email us here</a>
-</p>
+
+<!-- <a href="mailto:info@noeticsociety.org?subject=[noeticsociety.org inquery]">You can email us here</a> -->
 
 

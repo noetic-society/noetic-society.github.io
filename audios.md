@@ -7,14 +7,16 @@ layout: page
 guid: /?page_id=1330
 classic-editor-remember:
   - block-editor
+redirect_to: https://archive.org/details/noeticsociety?and[]=mediatype%3A%22audio%22
+
 ---
 <!-- ============ QUOTE and PICTURE ============== -->
 
-[Back to NS Archive](/archive)
+[Back to NS Archive](https://archive.org/details/noeticsociety)
 
 * These are older recordings of Parmenides morning discussions. They are slowly being moved over to their [new location on the Internet Archive](https://archive.org/details/noeticsociety?and%5B%5D=subject%3A%22NSPRM%22&sort=-date), and when they are all moved over, this page will be deleted.
 
-<!-- ============ TABLE ============== -->
+<!-- ============ TABLE ============== 
 
 ### Files
 
@@ -777,7 +779,7 @@ classic-editor-remember:
 </p>
 
 
-<!-- ============ NOTES ============== -->
+<!-- ============ NOTES ============== 
 
 ### Notes
 
@@ -792,10 +794,12 @@ classic-editor-remember:
   * Thanks to Barbara, Sean, Yoni, David, Sayon, Julie, and all others who have volunteered their time toward this project.
   * And of course, a thousand thanks to Pierre.
 
-<!-- ============ CONTACT ============== -->
+<!-- ============ CONTACT ============== 
 
 ### Contacts
 
   * This Archive Contact: info@noeticsociety.org
 
     [Back to NS Archive](/archive)
+
+-->

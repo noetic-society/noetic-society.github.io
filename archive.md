@@ -7,6 +7,7 @@ layout: page
 guid: /?page_id=1579
 classic-editor-remember:
   - block-editor
+redirect_to: https://archive.org/details/noeticsociety
 ---
 <!-- ============ QUOTE and PICTURE ============== -->
 
