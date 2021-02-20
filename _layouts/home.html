@@ -47,8 +47,11 @@ layout: default
 
     <ul class="post-list">
       {% for post in paginator.posts %}
-        {% include post-list-item.html %}
+        {% unless post.url contains 'live-talk' or post.url contains 'friday-night-talks' %}
+          {% include post-list-item.html %}
+        {% endunless %}
       {% endfor %}
+
     </ul>
 
     {% if paginator.total_pages > 1 %}
@@ -73,7 +76,9 @@ layout: default
 
     <ul class="post-list">
       {% for post in site.posts %}
-        {% include post-list-item.html %}
+        {% unless post.url contains 'live-talks' %}
+          {% include post-list-item.html %}
+        {% endunless %}
       {% endfor %}
     </ul>
 

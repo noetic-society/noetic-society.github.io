@@ -6,7 +6,7 @@ author: sorfila
 layout: page
 guid: /?page_id=104
 ---
-# <img class="alignnone size-large wp-image-787" src="/assets/images/wp-content/uploads/2013/02/pricing-Esalen_Campbell-95-940x626.jpg" alt="pricing-Esalen_Campbell-95" width="850" height="566" srcset="/assets/images/wp-content/uploads/2013/02/pricing-Esalen_Campbell-95-940x626.jpg 940w, /wp-content/uploads/2013/02/pricing-Esalen_Campbell-95-450x300.jpg 450w, /wp-content/uploads/2013/02/pricing-Esalen_Campbell-95.jpg 1500w" sizes="(max-width: 850px) 100vw, 850px" />(http://www.esalen.org/workshop/week-november-23-28/knowing-self-through-understanding-mind)
+# <img class="alignnone size-large wp-image-787" src="/assets/images/wp-content/uploads/2013/02/pricing-Esalen_Campbell-95-940x626.jpg" alt="pricing-Esalen_Campbell-95" width="850" height="566" srcset="/assets/images/wp-content/uploads/2013/02/pricing-Esalen_Campbell-95-940x626.jpg 940w, /wp-content/uploads/2013/02/pricing-Esalen_Campbell-95-450x300.jpg 450w, /wp-content/uploads/2013/02/pricing-Esalen_Campbell-95.jpg 1500w" sizes="(max-width: 850px) 100vw, 850px" />
 
 # <a href="http://www.esalen.org/workshop/week-november-23-28/knowing-self-through-understanding-mind" target="_blank">Knowing the Self through Understanding the Mind</a>
 
