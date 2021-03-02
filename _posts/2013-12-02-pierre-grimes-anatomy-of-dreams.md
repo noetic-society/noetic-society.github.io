@@ -47,6 +47,6 @@ tags:
 
 Pierre Grimes demonstrates dreams, dreaming and the structure of dreams explored in philosophical midwifery (philosophical counseling).
 
-These talks were recorded at the <a href="http://prs.org/wpcms/" target="_blank">Philosophical Research Society</a> where Pierre Grimes gave talks from 1995-1998.
+These talks were recorded at the <a href="https://prs.org/wpcms/" target="_blank">Philosophical Research Society</a> where Pierre Grimes gave talks from 1995-1998.
 
 These videos deal with dreams, fantasies and random thoughts as a doorway to understanding the intelligent, caring nature of the mind.

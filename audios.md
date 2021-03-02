@@ -784,11 +784,11 @@ redirect_to: https://archive.org/details/noeticsociety?and[]=mediatype%3A%22audi
 ### Notes
 
   * <a id="vlc"></a>You can play .ogg audio files with VLC, the free/open-source audio/video file player for:
-      * [Mac](http://www.videolan.org/vlc/download-macosx.html)
-      * [Windows](http://www.videolan.org/vlc/download-windows.html)
-      * [Android](http://www.videolan.org/vlc/download-android.html)
-      * [iOS (iPhone/iPad)](http://www.videolan.org/vlc/download-ios.html)
-      * [Linux and many other platforms](http://www.videolan.org/vlc/#download)
+      * [Mac](https://www.videolan.org/vlc/download-macosx.html)
+      * [Windows](https://www.videolan.org/vlc/download-windows.html)
+      * [Android](https://www.videolan.org/vlc/download-android.html)
+      * [iOS (iPhone/iPad)](https://www.videolan.org/vlc/download-ios.html)
+      * [Linux and many other platforms](https://www.videolan.org/vlc/#download)
   * Headphones recommended.
   * Please write me (below) with any questions/problems regarding this page. Thanks!
   * Thanks to Barbara, Sean, Yoni, David, Sayon, Julie, and all others who have volunteered their time toward this project.

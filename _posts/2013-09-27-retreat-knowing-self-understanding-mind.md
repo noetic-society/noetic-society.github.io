@@ -55,4 +55,4 @@ Pierre Grimes has developed this new paradigm as a path of self-discovery over m
 
 Please note: There will be a celebratory Thanksgiving dinner in the Esalen Lodge.
 
-_<a href="http://www.esalen.org/workshop/week-november-24-29/knowing-self-through-understanding-mind" target="_blank">For more info, or to enroll, click here.</a>_
+_<a href="https://www.esalen.org/workshop/week-november-24-29/knowing-self-through-understanding-mind" target="_blank">For more info, or to enroll, click here.</a>_

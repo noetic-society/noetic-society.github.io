@@ -373,7 +373,7 @@ If you would like to help with this effort, please contact info@noeticsociety.or
 
       * VLC app on <a href="https://itunes.apple.com/us/app/vlc-for-mobile/id650377962?mt=8" target="_blank" rel="noopener noreferrer">Apple iTunes (iPad / iPhone)</a>
       * VLC app in <a href="https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en" target="_blank" rel="noopener noreferrer">Google Play (Android)</a>
-      * VLC app for <a href="http://www.videolan.org/" target="_blank" rel="noopener noreferrer">all other platforms</a>
+      * VLC app for <a href="https://www.videolan.org/" target="_blank" rel="noopener noreferrer">all other platforms</a>
   *![](/assets/images/wp-content/uploads/2016/05/headphones.jpg) **Headphones recommended.**
   *![](/assets/images/wp-content/uploads/2016/05/write.png) Please write me (below) with any questions/problems regarding this page. Thanks!
   *![](/assets/images/wp-content/uploads/2016/05/thumbs-up-icon.png) Thanks to Barbara, Sean, Marty, Yoni, David, Sayon, JulieP, JulieH, Lisa, Nancy, Regina, and all others who have worked or helped to get audios and videos recorded. A treasure of wisdom for future generations.
@@ -390,6 +390,6 @@ If you would like to help with this effort, please contact info@noeticsociety.or
   * This Archive Contact: info@noeticsociety.org
   * General Website Contact: go [here](contact)
 
-<!--<em>This page was born in <a href="https://en.wikipedia.org/wiki/Emacs">Emacs</a>. It has benefited from the <a href="https://validator.w3.org/nu/?doc=http%3A%2F%2Fwww.socsci.uci.edu%2F~jstern%2Fns%2Ftemp%2Findex.php">W3 Nu HTML Checker</a>, <a href="http://jquery.org">JQuery</a>, the <a href="https://datatables.net/">DataTables</a> plug-in, and the <a href="http://getbootstrap.com/">Bootstrap</a> responsive design framework.</em>
+<!--<em>This page was born in <a href="https://en.wikipedia.org/wiki/Emacs">Emacs</a>. It has benefited from the <a href="https://validator.w3.org/nu/?doc=http%3A%2F%2Fwww.socsci.uci.edu%2F~jstern%2Fns%2Ftemp%2Findex.php">W3 Nu HTML Checker</a>, <a href="https://jquery.org">JQuery</a>, the <a href="https://datatables.net/">DataTables</a> plug-in, and the <a href="https://getbootstrap.com/">Bootstrap</a> responsive design framework.</em>
 
 -->

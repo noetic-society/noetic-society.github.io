@@ -8,7 +8,7 @@ guid: /?page_id=104
 ---
 # <img class="alignnone size-large wp-image-787" src="/assets/images/wp-content/uploads/2013/02/pricing-Esalen_Campbell-95-940x626.jpg" alt="pricing-Esalen_Campbell-95" width="850" height="566" srcset="/assets/images/wp-content/uploads/2013/02/pricing-Esalen_Campbell-95-940x626.jpg 940w, /wp-content/uploads/2013/02/pricing-Esalen_Campbell-95-450x300.jpg 450w, /wp-content/uploads/2013/02/pricing-Esalen_Campbell-95.jpg 1500w" sizes="(max-width: 850px) 100vw, 850px" />
 
-# <a href="http://www.esalen.org/workshop/week-november-23-28/knowing-self-through-understanding-mind" target="_blank">Knowing the Self through Understanding the Mind</a>
+# <a href="https://www.esalen.org/workshop/week-november-23-28/knowing-self-through-understanding-mind" target="_blank">Knowing the Self through Understanding the Mind</a>
 
 #### WEEK OF NOVEMBER 23-28, 2014 &#8211; Esalen
 
@@ -16,7 +16,7 @@ It is entirely possible to verify for oneself that we are part of a caring and i
 
 During this workshop, we will explore a new paradigm that offers a profound understanding of the way the mind functions and communicates with us for our benefit. As we focus on our dreams and daydreams with the simple rules of this new paradigm, we are brought to an awareness that our everyday existence can be the doorway to the profound, and what is often ignored can be the key to our inner development. Pierre Grimes has developed this new paradigm as a path of self-discovery over many years. It has its roots in the Homeric/Socratic tradition. Please bring writing materials and a small tape recorder for recording your dreams.
 
-## <a title="Link to Esalen" href="http://www.esalen.org/workshop/week-november-23-28/knowing-self-through-understanding-mind" target="_blank">More Info</a>
+## <a title="Link to Esalen" href="https://www.esalen.org/workshop/week-november-23-28/knowing-self-through-understanding-mind" target="_blank">More Info</a>
 
 &nbsp;
 
@@ -47,7 +47,7 @@ _Sponsored by The Noetic Society, Inc._
 
 <img class="size-full wp-image-580" src="/assets/images/wp-content/uploads/2013/10/450px-DSC00253_-_Afrodite_ed_Eros_-_Scultura_tardo-ellenistica_-_Foto_G._DallOrto.jpg" alt="Afrodite and Eros. Photo by G. Dall'Orto" width="450" height="600" srcset="/assets/images/wp-content/uploads/2013/10/450px-DSC00253_-_Afrodite_ed_Eros_-_Scultura_tardo-ellenistica_-_Foto_G._DallOrto.jpg 450w, /wp-content/uploads/2013/10/450px-DSC00253_-_Afrodite_ed_Eros_-_Scultura_tardo-ellenistica_-_Foto_G._DallOrto-225x300.jpg 225w" sizes="(max-width: 450px) 100vw, 450px" /> <figcaption id="caption-attachment-580" class="wp-caption-text">Afrodite and Eros. Photo by G. Dall&#8217;Orto</figcaption></figure>
 
-<a href="http://en.wikipedia.org/wiki/Alan_Watts" target="_blank">Alan Watts</a> recognized Pierre in his autobiography, <a href="http://www.amazon.com/In-My-Own-Way-Autobiography/dp/1577315847" target="_blank">In My Own Way</a>, as a “true Jnana Yogi; one who comes to an authentic realization, or satori, by an intellectual rather than an emotional or physical discipline.
+<a href="https://en.wikipedia.org/wiki/Alan_Watts" target="_blank">Alan Watts</a> recognized Pierre in his autobiography, <a href="https://www.amazon.com/In-My-Own-Way-Autobiography/dp/1577315847" target="_blank">In My Own Way</a>, as a “true Jnana Yogi; one who comes to an authentic realization, or satori, by an intellectual rather than an emotional or physical discipline.
 
 Chong-An S’nim of the Korean Chogye Ch’an Sect sealed Pierre as Hui-An, his Dharma Successor and master dharma teacher.
 

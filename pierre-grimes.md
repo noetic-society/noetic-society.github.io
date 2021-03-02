@@ -37,7 +37,7 @@ guid: /NS/?page_id=35
 </p>
 
 <p style="text-align: left;">
-  As a result, he co-authored with Dr. Regina Uliana an in-depth study of two subjects’ philosophical midwife dialogues and used them as the basis of a validation study. The study &#8212; A Validation of the Grimes Dialectic as a Mode of Rational Psychotherapy &#8212; was presented at the annual conference of the <a href="http://apa.org/" target="_blank" rel="noopener">American Psychological Association</a>.
+  As a result, he co-authored with Dr. Regina Uliana an in-depth study of two subjects’ philosophical midwife dialogues and used them as the basis of a validation study. The study &#8212; A Validation of the Grimes Dialectic as a Mode of Rational Psychotherapy &#8212; was presented at the annual conference of the <a href="https://apa.org/" target="_blank" rel="noopener">American Psychological Association</a>.
 </p>
 
 <p style="text-align: left;">
@@ -49,11 +49,11 @@ guid: /NS/?page_id=35
 </p>
 
 <p style="text-align: left;">
-  The program, <a href="http://www.openingmind.com/artemis/artindex1.asp" target="_blank" rel="noopener">To Artemis</a>: The Challenge to Know Thyself, was designed to guide users through 400 structured questions that were modeled as a dialogue requiring users to record their answers, which, as a result, outlined their own problems.
+  The program, <a href="https://www.openingmind.com/artemis/artindex1.asp" target="_blank" rel="noopener">To Artemis</a>: The Challenge to Know Thyself, was designed to guide users through 400 structured questions that were modeled as a dialogue requiring users to record their answers, which, as a result, outlined their own problems.
 </p>
 
 <p style="text-align: left;">
-  <a href="http://www.openingmind.com/artemis/artindex1.asp" target="_blank" rel="noopener">Artemis</a> is Web-based and available online for free <a href="http://www.openingmind.com/artemis/artindex1.asp" target="_blank" rel="noopener">here</a>.
+  <a href="https://www.openingmind.com/artemis/artindex1.asp" target="_blank" rel="noopener">Artemis</a> is Web-based and available online for free <a href="https://www.openingmind.com/artemis/artindex1.asp" target="_blank" rel="noopener">here</a>.
 </p>
 
 <p style="text-align: left;">
@@ -69,7 +69,7 @@ guid: /NS/?page_id=35
 </p>
 
 <p style="text-align: left;">
-  In 1982, the Son (<a href="http://en.wikipedia.org/wiki/Zen" target="_blank" rel="noopener">Zen</a>) master Chong-An (who was later given the name Myo Bong) of the <a href="http://en.wikipedia.org/wiki/Chogye" target="_blank" rel="noopener">Chogye</a> Buddhist order of Korea, suggested the creation of a center that would combine <strong>Buddhism and Platonic Philosophy</strong>.
+  In 1982, the Son (<a href="https://en.wikipedia.org/wiki/Zen" target="_blank" rel="noopener">Zen</a>) master Chong-An (who was later given the name Myo Bong) of the <a href="https://en.wikipedia.org/wiki/Chogye" target="_blank" rel="noopener">Chogye</a> Buddhist order of Korea, suggested the creation of a center that would combine <strong>Buddhism and Platonic Philosophy</strong>.
 </p>
 
 <p style="text-align: left;">

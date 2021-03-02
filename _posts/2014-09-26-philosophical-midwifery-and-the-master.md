@@ -18,7 +18,7 @@ categories:
   - Pierre Grimes
   - therapy
 ---
-<figure id="attachment_759" aria-describedby="caption-attachment-759" style="width: 900px" class="wp-caption alignnone"><img class="size-full wp-image-759" src="/assets/images/wp-content/uploads/2014/09/1372921930690.jpg" alt="Art by Alex Grey, visionary artist, borrowed courtesy of http://alexgrey.com/art/" width="900" height="696" srcset="/assets/images/wp-content/uploads/2014/09/1372921930690.jpg 900w, /assets/images/wp-content/uploads/2014/09/1372921930690-387x300.jpg 387w" sizes="(max-width: 900px) 100vw, 900px" />(http://alexgrey.com/art/)<figcaption id="caption-attachment-759" class="wp-caption-text">Art by Alex Grey, visionary artist, borrowed courtesy of alexgrey.com/art/</figcaption></figure>
+<figure id="attachment_759" aria-describedby="caption-attachment-759" style="width: 900px" class="wp-caption alignnone"><img class="size-full wp-image-759" src="/assets/images/wp-content/uploads/2014/09/1372921930690.jpg" alt="Art by Alex Grey, visionary artist, borrowed courtesy of https://alexgrey.com/art/" width="900" height="696" srcset="/assets/images/wp-content/uploads/2014/09/1372921930690.jpg 900w, /assets/images/wp-content/uploads/2014/09/1372921930690-387x300.jpg 387w" sizes="(max-width: 900px) 100vw, 900px" />(https://alexgrey.com/art/)<figcaption id="caption-attachment-759" class="wp-caption-text">Art by Alex Grey, visionary artist, borrowed courtesy of alexgrey.com/art/</figcaption></figure>
 
 ### **By: Nobuya Tareoka**
 

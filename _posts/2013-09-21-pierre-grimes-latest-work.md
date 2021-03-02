@@ -42,9 +42,9 @@ tags:
   - spirituality
   - wisdom
 ---
-<img style="border: none !important; margin: 0px !important;" alt="" src="http://ir-na.amazon-adsystem.com/e/ir?t=thenoesocinc-20&l=as2&o=1&a=1480250848" width="1" height="1" border="0" /><img class="alignnone size-full wp-image-482" alt="Pocket Pierre" src="/assets/images/wp-content/uploads/2013/09/5146mVbNnYL._SY346_PJlook-inside-v2TopRight10_SH20_.jpg" width="230" height="346" srcset="/assets/images/wp-content/uploads/2013/09/5146mVbNnYL._SY346_PJlook-inside-v2TopRight10_SH20_.jpg 230w, /assets/images/wp-content/uploads/2013/09/5146mVbNnYL._SY346_PJlook-inside-v2TopRight10_SH20_-199x300.jpg 199w" sizes="(max-width: 230px) 100vw, 230px" />(http://www.amazon.com/gp/product/1480250848/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1480250848&linkCode=as2&tag=thenoesocinc-20)
+<img style="border: none !important; margin: 0px !important;" alt="" src="https://ir-na.amazon-adsystem.com/e/ir?t=thenoesocinc-20&l=as2&o=1&a=1480250848" width="1" height="1" border="0" /><img class="alignnone size-full wp-image-482" alt="Pocket Pierre" src="/assets/images/wp-content/uploads/2013/09/5146mVbNnYL._SY346_PJlook-inside-v2TopRight10_SH20_.jpg" width="230" height="346" srcset="/assets/images/wp-content/uploads/2013/09/5146mVbNnYL._SY346_PJlook-inside-v2TopRight10_SH20_.jpg 230w, /assets/images/wp-content/uploads/2013/09/5146mVbNnYL._SY346_PJlook-inside-v2TopRight10_SH20_-199x300.jpg 199w" sizes="(max-width: 230px) 100vw, 230px" />(https://www.amazon.com/gp/product/1480250848/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1480250848&linkCode=as2&tag=thenoesocinc-20)
 
-### <a href="http://www.amazon.com/gp/product/1480250848/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1480250848&linkCode=as2&tag=thenoesocinc-20" target="_blank">The Pocket Pierre</a>
+### <a href="https://www.amazon.com/gp/product/1480250848/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1480250848&linkCode=as2&tag=thenoesocinc-20" target="_blank">The Pocket Pierre</a>
 
 Everybody has problems&#8211;and sadly, despite our best efforts, most of us daily struggle with them. As Pierre says, we try everything: &#8220;&#8230;psychotherapy, quests for heavenly intervention, Zen meditation, the priesthood or coaching Little League.&#8221;
 
@@ -58,4 +58,4 @@ It&#8217;s because we made the conclusions wordlessly, so we do not even have wo
 
 In a world of quick fixes and a myriad of therapeutic interventions, The Pocket Pierre offers you something fresh and new. At last, here is something that really works.
 
-<a href="http://www.amazon.com/gp/product/1480250848/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1480250848&linkCode=as2&tag=thenoesocinc-20" target="_blank">Click here to order on amazon.</a>
+<a href="https://www.amazon.com/gp/product/1480250848/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1480250848&linkCode=as2&tag=thenoesocinc-20" target="_blank">Click here to order on amazon.</a>

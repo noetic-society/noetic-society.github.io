@@ -22,15 +22,15 @@ For Pierre Grimes, the exploration of the dialectic as a mode of psychotherapy w
 
 The Noetic Society was founded in Huntington Beach in 1967 for the study of dialogue and the exploration of the dialectic. When the Noetic Society was incorporated in 1978, he became the Director of its Philosophical Midwifery Program, where he demonstrated and taught the **art of philosophical midwifery**.
 
-As a result, he co-authored with Dr. Regina Uliana an in-depth study of two subjects’ philosophical midwife dialogues and used them as the basis of a validation study. The study &#8212; A Validation of the Grimes Dialectic as a Mode of Rational Psychotherapy &#8212; was presented at the annual conference of the <a href="http://apa.org/" target="_blank">American Psychological Association</a>.
+As a result, he co-authored with Dr. Regina Uliana an in-depth study of two subjects’ philosophical midwife dialogues and used them as the basis of a validation study. The study &#8212; A Validation of the Grimes Dialectic as a Mode of Rational Psychotherapy &#8212; was presented at the annual conference of the <a href="https://apa.org/" target="_blank">American Psychological Association</a>.
 
 Dr. Uliana has lectured on the material of this work since 1981. The work was expanded upon and completed in 1990 and resulted in the book, **Philosophical Midwifery:** **A New Paradigm for Understanding Human Problems With its Validation**, published by Hyparxis Press.
 
 During the exploration of philosophical midwifery at the Noetic Society, a team was formed – Joseph Grimes, Carole Duncan and Pierre Grimes &#8212; to produce a computer program based on Pierre Grimes’ work.
 
-The program, <a href="http://www.openingmind.com/artemis/artindex1.asp" target="_blank">To Artemis</a>: The Challenge to Know Thyself, was designed to guide users through 400 structured questions that were modeled as a dialogue requiring users to record their answers, which, as a result, outlined their own problems.
+The program, <a href="https://www.openingmind.com/artemis/artindex1.asp" target="_blank">To Artemis</a>: The Challenge to Know Thyself, was designed to guide users through 400 structured questions that were modeled as a dialogue requiring users to record their answers, which, as a result, outlined their own problems.
 
-<a href="http://www.openingmind.com/artemis/artindex1.asp" target="_blank">Artemis</a> is Web-based and available online for free <a href="http://www.openingmind.com/artemis/artindex1.asp" target="_blank">here</a>.
+<a href="https://www.openingmind.com/artemis/artindex1.asp" target="_blank">Artemis</a> is Web-based and available online for free <a href="https://www.openingmind.com/artemis/artindex1.asp" target="_blank">here</a>.
 
 Currently, Pierre is a professor of philosophy at Goldenwest College in Huntington Beach, CA. As a consequence of his reflections with students, he identified a set of social beliefs &#8212; fictions &#8212; that are irreconcilable with the attainment of the kind of excellence that is associated with the development of understanding.
 
@@ -38,7 +38,7 @@ As a result, he authored the philosophical play, **Is It All Relative?: A Play o
 
 Pierre has been a student of **Eastern thought** for many years and has been called a **Jnana yogi** by **Alan Watts**.
 
-In 1982, the Son (<a href="http://en.wikipedia.org/wiki/Zen" target="_blank">Zen</a>) master Chong-An (who was later given the name Myo Bong) of the <a href="http://en.wikipedia.org/wiki/Chogye" target="_blank">Chogye</a> Buddhist order of Korea, suggested the creation of a center that would combine **Buddhism and Platonic Philosophy**.
+In 1982, the Son (<a href="https://en.wikipedia.org/wiki/Zen" target="_blank">Zen</a>) master Chong-An (who was later given the name Myo Bong) of the <a href="https://en.wikipedia.org/wiki/Chogye" target="_blank">Chogye</a> Buddhist order of Korea, suggested the creation of a center that would combine **Buddhism and Platonic Philosophy**.
 
 Chong-An was present when Pierre conducted classes on midwifery before the members of the Noetic Society. As Pierre describes it in the New Paradigm for Understanding:
 

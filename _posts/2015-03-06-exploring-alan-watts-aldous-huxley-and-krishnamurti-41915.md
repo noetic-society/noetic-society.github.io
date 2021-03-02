@@ -115,7 +115,7 @@ categories:
         </p>
         
         <p>
-          <a style="color: #000000;" href="http://besantlodge.com/" target="_blank" rel="nofollow">BesantLodge.Com</a>
+          <a style="color: #000000;" href="https://besantlodge.com/" target="_blank" rel="nofollow">BesantLodge.Com</a>
         </p>
         
         <p>

@@ -44,6 +44,6 @@ tags:
   - wisdom
 format: video
 ---
-[embedplusvideo height=&#8221;665&#8243; width=&#8221;850&#8243; standard=&#8221;http://www.youtube.com/v/oKXwYfB5tM4?fs=1&#8243; vars=&#8221;ytid=oKXwYfB5tM4&width=850&height=665&start=&stop=&rs=w&hd=0&autoplay=0&react=1&chapters=&notes=&#8221; id=&#8221;ep4885&#8243; /]
+[embedplusvideo height=&#8221;665&#8243; width=&#8221;850&#8243; standard=&#8221;https://www.youtube.com/v/oKXwYfB5tM4?fs=1&#8243; vars=&#8221;ytid=oKXwYfB5tM4&width=850&height=665&start=&stop=&rs=w&hd=0&autoplay=0&react=1&chapters=&notes=&#8221; id=&#8221;ep4885&#8243; /]
 
 A great lecture from Pierre Grimes&#8230;
