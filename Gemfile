@@ -1,10 +1,17 @@
-# frozen_string_literal: true
-
 source "https://rubygems.org"
-gemspec
 
-# for demo site
+# Jekyll and plugins
+gem "jekyll", "~> 3.9.0"
 gem "jekyll-paginate"
-gem "kramdown-parser-gfm"
-gem "webrick", "~> 1.7"
 gem "jekyll-redirect-from"
+
+# Required for Jekyll on Ruby 3.4+
+gem "webrick"
+gem "csv"
+gem "logger"
+gem "base64"
+gem "bigdecimal"
+
+# Required for Markdown processing
+gem "kramdown", "~> 2.3.0"
+gem "kramdown-parser-gfm"
